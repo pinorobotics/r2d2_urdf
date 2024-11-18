@@ -6,6 +6,8 @@ The original URDF was taken from [Perceptive-Pick-And-Place-Robot](https://githu
 
 NOTE: This is unofficial Dorna ROS2 package. For official Dorna software follow https://dorna.ai/
 
+[![Example](example.gif)](example.gif)
+
 # Build
 
 ```
