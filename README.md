@@ -15,7 +15,11 @@ NOTE: This is unofficial Dorna ROS2 package. For official Dorna software follow 
 ```
 cd <ROS WORKSPACE>
 colcon build
-source install/setup.zsh
+```
+
+Setup environment (for zsh replace to "setup.zsh"):
+```
+source install/setup.bash
 ```
 
 # Run
