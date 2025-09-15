@@ -327,7 +327,7 @@
     <child
       link="Link_5" />
     <axis
-      xyz="0.99117 0 -0.13261" />
+      xyz="-0.99117 0 0.13261" />
     <limit
       effort="10"
       velocity="34.907" />
